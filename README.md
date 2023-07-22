@@ -12,7 +12,7 @@ This React project implements a functional shopping cart application, utilizing 
 
 
 ### Explore The Website
-[ReduxToolkitCart on Netlify](https://redux-toolkit-cart.netlify.app)
+[ReduxToolkitCart on Netlify](https://toolkit-cart-app.netlify.app/)
 
 ### Preview
 
